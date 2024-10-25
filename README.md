@@ -27,14 +27,6 @@ A Python-based voice assistant that interacts with users via speech commands. Th
    Ensure the API keys in the .env file are correct.
    Use python-dotenv to load environment variables if needed
 
-## 🛠️ Troubleshooting
-1.**Module NOT Found?:**
-Install Dependencies : ```bash 
-py -m pip install -r requirements.txt
-
-2.**API key errors?:**
-Verify the .env file.
-
 ## 🚀 How To Run
   1.**Run the voice Assistant:** 
    ```bash
