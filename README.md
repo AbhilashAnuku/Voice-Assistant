@@ -13,7 +13,6 @@ A Python-based voice assistant that interacts with users via speech commands. Th
      API_KEY=your_api_key_here
      OTHER_API_KEY=another_api_key_here
      ```
-
 ---
 
 ## 📦 Setup and Installation  
@@ -29,6 +28,7 @@ A Python-based voice assistant that interacts with users via speech commands. Th
    Use python-dotenv to load environment variables if needed
 
 ## How To Run
+ 
   ```bash
   py main.py
 
@@ -48,9 +48,11 @@ voice-assistant/
 └── README.md          # Documentation
 
 ## 🛠️ Troubleshooting
---> Module not found? Install dependencies : py -m pip install -r requirements.txt
+--> Module not found? Install dependencies :
+```bash
+py -m pip install -r requirements.txt
 --> API key errors? Verify the .env file
 
 ## 📫 Contact
-GitHub: https://github.com/AbhilashAnuku
-Email: abhilashanuku14@gmail.com
+GitHub: [https://github.com/AbhilashAnuku](https://github.com/AbhilashAnuku)
+Email: [abhilashanuku14@gmail.com] (abhilashanuku14@gmail.com)
